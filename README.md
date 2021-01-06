@@ -1,6 +1,6 @@
 # ymgkproje
 
-A new Flutter project.
+YMGK Dersi için flutter projesi
 
 ## Getting Started
 
